@@ -13,13 +13,37 @@
 - País de Gales
 
 ## Grupo C
+- Argentina
+- Arábia Saudita 
+- México 
+- Polônia
 
 ## Grupo D
+- França
+- Austrália 
+- Dinamarca 
+- Tunísia
 
 ## Grupo E
+- Espanha
+- Costa Rica
+- Alemanha
+- Japão
 
 ## Grupo F
+- Bélgica
+- Canadá
+- Marrocos
+- Croácia
 
 ## Grupo G
+- Brasil
+- Sérvia
+- Suíça
+- Camarões
 
 ## Grupo H 
+- Portugal 
+- Gana
+- Uruguai 
+- Coreia do Sul
